@@ -21,19 +21,7 @@ This project is part of the IBM Data Science Professional Certificate. It involv
 - [Contributing](#contributing)
 - [License](#license)
 
-## Installation
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/ibm-data-science-project.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd ibm-data-science-project
-    ```
-3. Install the required packages:
-    ```bash
-    pip install -r requirements.txt
     ```
 
 ## Project Structure
@@ -76,4 +64,4 @@ Contributions are welcome! Please read the [CONTRIBUTING](CONTRIBUTING.md) guide
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ```
 
-Feel free to customize this template according to the specifics of your IBM Data Science project.
+
